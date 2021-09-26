@@ -1,0 +1,23 @@
+.login {
+    margin: auto;
+    margin-top: 20%;
+    margin-bottom: 20%;
+    width: 30%;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: -2px 0px 107px 8px rgba(255, 0, 0, 1);
+    -webkit-box-shadow: -2px 0px 107px 8px rgba(255, 0, 0, 1);
+    -moz-box-shadow: -2px 0px 107px 8px rgba(255, 0, 0, 1);
+}
+
+.login h2 {
+    text-align: center;
+    color: rgb(58, 56, 56);
+    margin: 5%;
+}
+
+.login p {
+    text-align: center;
+    color: rgb(58, 56, 56);
+}

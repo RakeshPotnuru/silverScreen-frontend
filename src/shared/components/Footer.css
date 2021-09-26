@@ -1,0 +1,25 @@
+footer {
+    display: flex;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.39);
+    color: gray;
+    margin: 5%;
+}
+
+footer img {
+    width: 50%;
+}
+
+footer .social-icons {
+    margin-left: 50%;
+    display: flex;
+}
+
+footer .social-icons span {
+    margin: 5%;
+}

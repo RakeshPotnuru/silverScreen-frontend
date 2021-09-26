@@ -1,0 +1,82 @@
+#my-collection {
+    margin: 5%;
+    margin-top: 10%;
+}
+
+#my-collection h1 {
+    color: red;
+    font-weight: 900;
+}
+
+#my-collection .fab {
+    width: 70px;
+    height: 70px;
+    background-color: red;
+    border-radius: 50%;
+    box-shadow: 0 5px 15px rgba(250, 0, 0, 0.644);
+    transition: all 0.1s ease-in-out;
+
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    line-height: 70px;
+
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+    cursor: pointer;
+}
+
+#my-collection .fab:hover {
+    background-color: rgba(253, 0, 0, 0.541);
+    transform: scale(1.05);
+}
+
+.my-collection {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 3%;
+}
+
+.my-collection__card {
+    margin: 1%;
+    flex: 0 0 21%;
+}
+
+.my-collection__card-img {
+    width: 240px;
+    background: black;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+    box-shadow: 0 5px 15px rgba(250, 0, 0, 0.644);
+}
+
+.my-collection__card-img:hover {
+    transform: translate3d(0px, -5px, 0px);
+}
+
+.my-collection__card-img img {
+    width: 240px;
+}
+
+.my-collection__card-details p {
+    color: white;
+    margin: 5%;
+    align-items: center;
+}
+
+.my-collection__card-details {
+    display: flex;
+    flex-direction: row;
+}
+
+.my-collection__card-details button {
+    outline: none;
+    border: none;
+    background-color: transparent;
+}
+
+.my-collection__card-details .delete-btn {
+    position: relative;
+    margin-top: 50% auto;
+}

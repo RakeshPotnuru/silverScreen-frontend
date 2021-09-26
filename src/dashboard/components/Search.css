@@ -1,0 +1,23 @@
+.search__bar {
+    position: absolute;
+    top: 25%;
+    left: 35%;
+}
+
+.empty-div {
+    height: 600px;
+}
+
+.search__results {
+    margin: 20% 5% 25% 5%;
+}
+
+.search__results h1 {
+    color: red;
+}
+
+.search__results button {
+    outline: none;
+    border: none;
+    background-color: transparent;
+}

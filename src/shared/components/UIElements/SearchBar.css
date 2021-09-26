@@ -1,0 +1,23 @@
+.search-bar input {
+    outline: none;
+    width: 25%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    caret-color: white;
+    color: white;
+    box-shadow: rgba(179, 28, 28, 0.25) 0px 30px 60px -12px inset, rgba(255, 2, 2, 0.781) 0px 18px 36px -18px inset;
+}
+
+.search-bar button {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    margin-left: 2%;
+}
+
+.form-control--invalid p{
+    color: red;
+    font-size: xx-small;
+}

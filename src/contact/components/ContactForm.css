@@ -1,0 +1,25 @@
+#contact {
+    margin: 10% auto auto 5%;
+}
+
+#contact form input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 2%;
+    background-color: black;
+    border: none;
+    border-bottom: 2px solid rgba(255, 0, 0, 0.616);
+    color: white;
+}
+
+#contact form textarea:focus {
+    border: 2px solid red;
+}
+#contact form input:focus, textarea:focus {
+    outline: none;
+    border-bottom: 2px solid red;
+}
+
+#contact .element {
+    margin: 3% 7% 3% 3%;
+}

@@ -1,0 +1,21 @@
+.movie-page {
+    margin: 10%;
+    margin-top: 15%;
+}
+
+.movie-page h1 {
+    color: red;
+}
+.movie-page__details {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.movie-page__movie-img, .movie-page__movie-details {
+    margin: 3%;
+}
+
+.movie-page__movie-img img {
+    width: 300px;
+}
