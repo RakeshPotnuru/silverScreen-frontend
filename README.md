@@ -16,5 +16,5 @@ Backend Repo - [Here](https://github.com/RakeshPotnuru/silverScreen-backend)
 ### 3. React - Frontend
 ### 4. Nodejs, Express - Backend
 ### 5. MongoDB - Database
-### 6. Heroku, Firbase - Hosting
+### 6. Heroku, Firebase - Hosting
 ### 7. [TMDB](https://www.themoviedb.org) Api
