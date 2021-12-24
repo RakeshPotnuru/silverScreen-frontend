@@ -5,11 +5,19 @@
 Live website - [Here](https://silverscreen-2129f.web.app/)
 
 Backend Repo - [Here](https://github.com/RakeshPotnuru/silverScreen-backend)
+
 ## Tools used
+
 ### 1. Postman for API testing
+
 ### 2.Sawo labs for authentication
+
 ### 3. React - Frontend
+
 ### 4. Nodejs, Express - Backend
+
 ### 5. MongoDB - Database
+
 ### 6. Heroku, Firebase - Hosting
+
 ### 7. [TMDB](https://www.themoviedb.org) Api
